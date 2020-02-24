@@ -1,2 +1,0 @@
-# micronaut
-Micronaut hello controller
